@@ -35,7 +35,7 @@ Online Task Book with login and task book features.
 
 ## About The Project
 
-We made this project to pass the classes where we use Android Studio. This simple application allows you to save your location wherever you are. Location coordinates are saved in the database separately for each user. Then you can see the information of the saved location.
+<!--We made this project to pass the classes where we use Android Studio. This app allows you to write your tasks down, their weight(how important it is) and describe what they are about. Your tasks are saved in Firebase Realtime Database.-->
 
 ![](https://i.gyazo.com/c3c70348bdb7564b518a98353f7593b7.png)
 ![](https://i.gyazo.com/5ea222d2a28c7eea1bd682c03fd24509.png)
