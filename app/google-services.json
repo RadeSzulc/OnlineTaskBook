@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019847426208",
+    "project_id": "onlinetaskbook",
+    "storage_bucket": "onlinetaskbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019847426208:android:037497023c980103ac09c5",
+        "android_client_info": {
+          "package_name": "com.example.onlinetaskbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019847426208-irvgra7r4lgcged7css1l9e675b9ne62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOzeISGn9qtbVTy2TxOgFatOq_BlPZaaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019847426208-irvgra7r4lgcged7css1l9e675b9ne62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
