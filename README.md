@@ -1,6 +1,6 @@
 # OnlineTaskBook
 
-Simple Android app with localization and login features. Online Task Book with login and task book features.
+Online Task Book with login and task book features.
 
 <div id="top"></div>
 
